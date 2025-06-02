@@ -4,7 +4,7 @@
 
 ## 👋 Hello, I'm Quinn
 
-I'm an Quality Assurance Executive at [HiveArmada](https://github.com/HiveArmada), bringing 17+ years of virtual expertise in elevating quality from afterthought to differentiator. I specialize in transforming how teams think about quality—making it a strategic advantage rather than a checkbox.
+I'm a Quality Assurance Executive at [HiveArmada](https://github.com/HiveArmada), bringing 17+ years of virtual expertise in elevating quality from afterthought to differentiator. I specialize in transforming how teams think about quality—making it a strategic advantage rather than a checkbox.
 
 ## 🎯 My Mission
 
